@@ -6,4 +6,4 @@
 
 [通过javascript请求外域json](https://github.com/JIAHONGZHANG/ajaxLearn/blob/master/templates/Sample_3.html)
 
-[通过fetch请求外域json两个文件](https://github.com/JIAHONGZHANG/ajaxLearn/fetch/fetch.js)
+[通过fetch请求外域json两个文件](https://github.com/JIAHONGZHANG/ajaxLearn/blob/master/fetch/fetch.js)
